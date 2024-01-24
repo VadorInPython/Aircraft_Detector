@@ -6,4 +6,4 @@ I believe in the future more aircraft will be added to the dataset, especially f
 Everything has been done on YOLOv8 object detection model.
 
 Future updates might involve training it on another military hardware, probably even ground vehicles etc... 
-(just to receive best possible outcome for detection purposes concerining whole possible threats...)
+(just to receive best possible outcome for detection purposes concerining all possible threats...)
